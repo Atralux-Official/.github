@@ -11,7 +11,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=Atralux-Official&color=232b2b&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Atralux-Official&color=232b2b&abbreviated=true&style=flat-square)
 
 
 
