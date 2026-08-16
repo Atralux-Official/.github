@@ -11,7 +11,7 @@
 
 ###
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Atralux-Official)
+![](https://komarev.com/ghpvc/?username=Atralux-Official&color=yellow)
 
 
 
