@@ -11,7 +11,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=Atralux-Official&color=yellow)
+![](https://komarev.com/ghpvc/?username=Atralux-Official&color=yellow&abbreviated=true)
 
 
 
