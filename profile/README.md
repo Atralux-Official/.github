@@ -1,4 +1,4 @@
-## Atralux
+## <div align="center">AtraLux
 ###
 <div align="center">
   <a href="https://discord.com/invite/vWpM2qMhhn"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" height="40" alt="discord"/></a>
