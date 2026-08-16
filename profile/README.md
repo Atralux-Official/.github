@@ -9,5 +9,11 @@
   <img width="12" />
 </div>
 
+###
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Atralux-Official)
+
+
+
 
 
