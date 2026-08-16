@@ -8,9 +8,7 @@
   <a href="https://www.tiktok.com/@atralux_dev"><img src="https://m.media-amazon.com/images/I/41b3zsiq4pL.png" height="40" alt="tiktok"/></a>
   <img width="12" />
 </div>
-
 ###
-
 ![](https://komarev.com/ghpvc/?username=Atralux-Official&abbreviated=true&style=flat-square)
 
 
